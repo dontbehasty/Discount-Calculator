@@ -1,12 +1,20 @@
 # Discount-Calculator
 
-As part of a tutorial I created a tip calculator. I decided to take what I learnt from creating the tip calculator and add more to it, such as: Changing the colour of the background, font &amp; buttons. Adding in a seekbar for the percentage. Adding a border around some of the layouts. Hide the on screen keyboard when the buttons are pressed. Removed the toolbar at the top of the screen so the app takes up the full screen.
+As part of a tutorial I created a tip calculator - I decided to take what I learnt from that and create myself a discount calculator. I also decided to improve the design and add more functionality and to the app such as: 
+ <ul>
+  <li>Changing the colour of the background, font and buttons</li>
+  <li>Adding in a seekbar for the percentage</li>
+  <li>Adding a border around some of the layouts</li>
+  <li>Hide the on screen keyboard when the buttons are pressed</li>
+  <li>Removed the toolbar at the top of the screen so the app takes up the full screen</li>
+</ul> 
 
 <div>
   <img src="/Screenshot 1.png" height="300"/> &nbsp
   <img src="/Screenshot 2.png" height="300"/> &nbsp
 </div>
 
+---
 
 <b><u>Hide Title Bar and Enable Full Screen</b></u>
 <br>
