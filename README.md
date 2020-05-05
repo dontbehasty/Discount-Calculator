@@ -16,6 +16,15 @@ As part of a tutorial I created a tip calculator - I decided to take what I lear
 
 ---
 
+<b><u>Demo</b></u>
+<br>
+
+<div>
+  <img src="/Discount Calculator App - Demo.gif" height="500"/>
+</div>
+
+---
+
 <b><u>Hide Title Bar and Enable Full Screen</b></u>
 <br>
 ```java
@@ -58,10 +67,3 @@ imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
             }
         });
 ```
-
-<b><u>Demo</b></u>
-<br>
-
-<div>
-  <img src="/Discount Calculator App - Demo.gif" height="500"/>
-</div>
