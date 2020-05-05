@@ -63,5 +63,5 @@ imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
 <br>
 
 <div>
-  <img src="/Discount Calculator App - Demo.gif"/>
+  <img src="/Discount Calculator App - Demo.gif" height="500"/>
 </div>
