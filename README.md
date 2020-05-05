@@ -12,6 +12,7 @@ As part of a tutorial I created a tip calculator - I decided to take what I lear
 <div>
   <img src="/Screenshot 1.png" height="300"/> &nbsp
   <img src="/Screenshot 2.png" height="300"/> &nbsp
+  <img src="/Discount Calculator App - Demo.gif" height="300"/> &nbsp
 </div>
 
 ---
